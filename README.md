@@ -1,6 +1,6 @@
 <html>
   <header>
-    <title> Greetings <title>
+    <title> Greetings <t/itle>
   </header>
       <body>
         Hello World
